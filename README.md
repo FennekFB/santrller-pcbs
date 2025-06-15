@@ -16,14 +16,10 @@ santrller-projects/
 │   ├── easyeda/
 │   │    └── "your user name"/
 │   └── proteus/
-│   │    └── "your user name"/
+│       └── "your user name"/
 ├── gerbers/
-│   ├── oficial/
-│   └── user made/
 │       └── "your user name"/
 └── 3d models/
-    ├── oficial/
-    └── user made/
         └── "your user name"/
 ```
 
