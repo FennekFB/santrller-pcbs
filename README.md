@@ -31,7 +31,7 @@ santrller-projects/
 ## 🌐 Official Santroller Page
 
 <a href="https://santroller.com">
-  <img src="assets/santroller_logo.png" alt="Santroller" height="30"/>
+  <img src="santroller_logo.png" alt="Santroller" height="30"/>
 </a>
 
 
