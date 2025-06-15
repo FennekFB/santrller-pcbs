@@ -23,8 +23,7 @@ santrller-projects/
         └── "your user name"/
 ```
 
-- Use the appropriate subfolder to upload your files.
-- For community contributions, do a fork os the repository add your files adn do a pull request (plase dont remove other people files or the pull request will be denied).
+- For contributions, do a fork of the repository add your files and do a pull request (please don't remove other people files or the pull request will be denied).
 
 ---
 
