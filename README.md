@@ -30,7 +30,7 @@ santrller-projects/
 
 ## 🌐 Official Santroller Page
 
-[![Visit Santroller.com](https://img.shields.io/badge/Visit-Santroller.com-blue?style=for-the-badge&logo=github)](https://santroller.com)
+[![Santroller](assets/santroller_logo.png)](https://santroller.com)
 
 ---
 
